@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+#98 chars here we go...............
+print("The Zen of Python, by Tim Peters\n")
